@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class L1Q6 
+public class L3Q6 
 {
     public static void main(String[] args) 
     {
